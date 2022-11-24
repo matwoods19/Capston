@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.fightback.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\mathew.woods\\Desktop\\gam-495-mathew-woods\\Fight Back\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Fight Back [Testing]"
+        }
+      }
+    }
+  ]
+}

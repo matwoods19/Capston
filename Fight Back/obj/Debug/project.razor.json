@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\woody_000\\Desktop\\gam-495-mathew-woods\\Fight Back\\Assembly-CSharp.csproj",
+  "TargetFramework": "v3.5",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
